@@ -3,6 +3,3 @@
 
 #사용자
 - 유진
-
-#I Love
-- Mushroom
